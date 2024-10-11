@@ -36,7 +36,7 @@ function EventForm({ initialData, type = "create" }: Props) {
           newlySelectedImages.map((image: any) => image.file)
         );
         await axios.post("/api/admin/events", event);
-        toast.success("Event created successfully");
+        toast.success("Museum created successfully");
         router.refresh();
         router.push("/admin/events");
       } else {

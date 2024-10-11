@@ -17,7 +17,7 @@ export async function POST(request: NextRequest) {
         reqBody.user = mongoUserId;
         await EventModel.create(reqBody);
         return NextResponse.json(
-            { message: "Event created successfully" },
+            { message: "Museum created successfully" },
             { status: 201 }
         );
     } catch (error: any) {

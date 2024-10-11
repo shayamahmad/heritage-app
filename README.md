@@ -90,3 +90,6 @@ Structure:
 
 Contribution:
 Feel free to raise any issues or contribute to the project by submitting pull requests.
+
+
+**Note: For an optimal user interface experience, it is recommended to access this platform on a desktop.** 

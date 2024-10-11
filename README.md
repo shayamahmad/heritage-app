@@ -73,15 +73,15 @@ Expected Solution:
 An efficient, responsive, and multilingual chatbot-based ticketing system with integrated payment options, designed to provide a seamless visitor experience from booking to entry. The solution also includes analytics to help museums make informed decisions.
 
 Solution Demo:
-You can access the live demo of the solution at: heritage-app-gamma.vercel.app.
+You can access the live demo of the solution at: https://heritage-app-gamma.vercel.app/
 
 Team Members:
-Shayam Ahmad (Leader)
-Mohammad Aakib Bhat
-Haroon Iqbal
-Jan Adnan Farooq
-Isha Mishra
-Shivani Gupta
+1. Shayam Ahmad (Leader)
+2. Mohammad Aakib Bhat
+3. Haroon Iqbal
+4. Jan Adnan Farooq
+5. Isha Mishra
+6. Shivani Gupta
 
 Structure:
 1. src/: Contains the source code for the chatbot and ticket booking system.

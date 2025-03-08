@@ -77,7 +77,7 @@ You can access the live demo of the solution at: https://heritage-app-gamma.verc
 
 Team Members:
 1. Shayam Ahmad (Leader)
-2. Mohammad Aakib Bhat
+2. Mohammad Aakib Bhat - @bhataakib02
 3. Haroon Iqbal
 4. Jan Adnan Farooq
 5. Isha Mishra

@@ -80,8 +80,8 @@ Team Members:
 2. Mohammad Aakib Bhat - https://github.com/bhataakib02
 3. Haroon Iqbal - https://github.com/Haroon-89
 4. Jan Adnan Farooq - https://github.com/Adnaan-dev
-5. Isha Mishra
-6. Shivani Gupta
+5. Isha Mishra - https://github.com/ishamishra19
+6. Shivani Gupta - https://github.com/shivanigupta004
 
 Structure:
 1. src/: Contains the source code for the chatbot and ticket booking system.
